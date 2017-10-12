@@ -6,6 +6,7 @@ The list of companies who use Node.js in Japan
 Name | Website | GitHub | What we do with
 ------------ | ------- | ------- | -------
 Example | http://example.com | [@nodejsjp](https://github.com/nodejsjp) | Server side rendering 
+Minkore | https://minkore.funa.in.net | N/A | Migrating to Firebase Cloud Functions (Vue.js + Firebase SPA) 
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
