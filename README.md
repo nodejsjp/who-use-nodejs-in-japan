@@ -3,9 +3,9 @@ The list of companies who use Node.js in Japan
 
 ## Companies
 
-Name | Website | What we do with
------------- | ------- | -------
-[Example](http://example.com) | http://example.com | Server side rendering
+Name | Website | GitHub | What we do with
+------------ | ------- | ------- | -------
+[Example](http://example.com) | http://example.com | [@nodejsjp](https://github.com/nodejsjp) | Server side rendering 
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
