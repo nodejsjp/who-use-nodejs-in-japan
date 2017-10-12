@@ -7,6 +7,7 @@ Name | Website | GitHub | What we do with
 ------------ | ------- | ------- | -------
 Example | http://example.com | [@nodejsjp](https://github.com/nodejsjp) | Server side rendering 
 [bitbank, inc](https://bitcoinbank.co.jp) | https://bitbank.cc | [@bitbankinc](https://github.com/bitbankinc) | ALL (Web Service, Backend Job, Angular building, Bitcoin and Cryptocurrencies)
+Minkore | https://minkore.funa.in.net | N/A | Migrating to Firebase Cloud Functions (Vue.js + Firebase SPA) 
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
