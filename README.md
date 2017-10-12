@@ -6,6 +6,7 @@ The list of companies who use Node.js in Japan
 Name | Website | GitHub | What we do with
 ------------ | ------- | ------- | -------
 Example | http://example.com | [@nodejsjp](https://github.com/nodejsjp) | Server side rendering 
+[bitbank, inc](https://bitcoinbank.co.jp) | https://bitbank.cc | [@bitbankinc](https://github.com/bitbankinc) | ALL (Web Service, Backend Job, Angular building, Bitcoin and Cryptocurrencies)
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
