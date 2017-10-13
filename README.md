@@ -15,6 +15,7 @@ Kaizen Platform, Inc. | https://kaizenplatform.com/ | [@kaizenplatform](https://
 DWANGO Co., Ltd. | http://dwango.co.jp/ | [@dwango](https://github.com/dwango) | Server Side Rendering, front-end tool and some API servers.
 freee K.K. | https://www.freee.co.jp/ | [@freee](https://github.com/freee) | front-end tool and back-end services.
 [SOBA Project,Inc.](https://www.soba-project.com/) | https://cloud.soba-project.com/ | N/A | Some microservices using Express and Socket.io.
+L is B Corp. | https://l-is-b.com/ja/ | [@lisb](https://github.com/lisb) | Few back-end services.
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
