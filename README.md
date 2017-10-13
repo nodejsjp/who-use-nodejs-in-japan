@@ -12,6 +12,7 @@ Recruit Technologies | https://recruit-tech.co.jp/ | [@recruit-tech](http://gith
 Yahoo Japan Corporation | https://www.yahoo.co.jp/ | [@yahoojapan](https://github.com/yahoojapan) | Many properties are running with Node.js
 HANDS LAB INC. | https://www.hands-lab.com/ | [@hands-lab](https://github.com/hands-lab) | Internal CRM Web Apps are running with Node.js
 Kaizen Platform, Inc. | https://kaizenplatform.com/ | [@kaizenplatform](https://github.com/kaizenplatform) | Few back-end services and front-end tools
+DWANGO Co., Ltd. | http://dwango.co.jp/ | [@dwango](https://github.com/dwango) | Server Side Rendering, front-end tool and some API servers.
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
