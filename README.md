@@ -11,6 +11,8 @@ Minkore | https://minkore.funa.in.net | N/A | Migrating to Firebase Cloud Functi
 Recruit Technologies | https://recruit-tech.co.jp/ | [@recruit-tech](http://github.com/recruit-tech/) | Server Side Rendering, Frontend tool, Push notification platform, etc see: http://yosuke-furukawa.hatenablog.com/entry/2016/12/01/175446 
 Yahoo Japan Corporation | https://www.yahoo.co.jp/ | [@yahoojapan](https://github.com/yahoojapan) | Many properties are running with Node.js
 HANDS LAB INC. | https://www.hands-lab.com/ | [@hands-lab](https://github.com/hands-lab) | Internal CRM Web Apps are running with Node.js
+Kaizen Platform, Inc. | https://kaizenplatform.com/ | [@kaizenplatform](https://github.com/kaizenplatform) | Few back-end services and front-end tools
+
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
 + Vue.js: https://github.com/vuejs-jp/who-use-vuejs-in-japan
