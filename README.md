@@ -19,6 +19,8 @@ L is B Corp. | https://l-is-b.com/ja/ | [@lisb](https://github.com/lisb) | Few b
 [airCloset, Inc.](https://corp.air-closet.com) | https://air-closet.com/  https://pickss.jp | [@aircloset](https://github.com/air-closet) | Almost ALL (Web Service, Backend Job, Server Side Sendering, UI Test, React and React Native Buildings, Frontend tools.)
 Open Web Technology | http://openweb.co.jp/ | [@openwebtech](https://github.com/openwebtech) | Almost all of [TechFeed](https://techfeed.io)
 Eiwa System Management, Inc. | http://www.esm.co.jp/ | [@esminc](https://github.com/esminc) | Few back-end services and front-end tools.
+Bertrand Co. | http://bertrandco.com/ | [@bentoandco](https://github.com/bentoandco) | Back-end and Front-end through [Meteor](https://www.meteor.com/)
+
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
