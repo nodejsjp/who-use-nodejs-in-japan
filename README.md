@@ -20,6 +20,7 @@ L is B Corp. | https://l-is-b.com/ja/ | [@lisb](https://github.com/lisb) | Few b
 Open Web Technology | http://openweb.co.jp/ | [@openwebtech](https://github.com/openwebtech) | Almost all of [TechFeed](https://techfeed.io)
 Eiwa System Management, Inc. | http://www.esm.co.jp/ | [@esminc](https://github.com/esminc) | Few back-end services and front-end tools.
 Nota, Inc. | http://notainc.com | [@nota](https://github.com/nota) | Front-end tools and back-end services.
+Bertrand Co. | http://bertrandco.com/ | [@bentoandco](https://github.com/bentoandco) | Back-end and Front-end through [Meteor](https://www.meteor.com/)
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
