@@ -22,6 +22,7 @@ Eiwa System Management, Inc. | http://www.esm.co.jp/ | [@esminc](https://github.
 Nota, Inc. | http://notainc.com | [@nota](https://github.com/nota) | Front-end tools and back-end services.
 Bertrand Co. | http://bertrandco.com/ | [@bentoandco](https://github.com/bentoandco) | Back-end and Front-end through [Meteor](https://www.meteor.com/)
 Zens, Inc. | http://www.zens.tokyo | [@zenstokyo](https://github.com/zenstokyo) | Full-stack Node.
+CyberAgent, Inc. | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | back-end services of community apps and games.
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
