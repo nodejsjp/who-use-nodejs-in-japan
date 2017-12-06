@@ -23,6 +23,7 @@ Nota, Inc. | http://notainc.com | [@nota](https://github.com/nota) | Front-end t
 Bertrand Co. | http://bertrandco.com/ | [@bentoandco](https://github.com/bentoandco) | Back-end and Front-end through [Meteor](https://www.meteor.com/)
 Zens, Inc. | http://www.zens.tokyo | [@zenstokyo](https://github.com/zenstokyo) | Full-stack Node.
 CyberAgent, Inc. | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | back-end services of community apps and games.
+Weblio, Inc. | https://www.weblio-inc.jp/ | [@weblio](https://github.com/weblio) | Both front-end and back-end tools for [eikaiwa service](https://eikaiwa.weblio.jp/)
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
