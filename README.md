@@ -24,6 +24,7 @@ Bertrand Co. | http://bertrandco.com/ | [@bentoandco](https://github.com/bentoan
 Zens, Inc. | http://www.zens.tokyo | [@zenstokyo](https://github.com/zenstokyo) | Full-stack Node.
 CyberAgent, Inc. | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | back-end services of community apps and games.
 Weblio, Inc. | https://www.weblio-inc.jp/ | [@weblio](https://github.com/weblio) | Front-end tools and back-end service for [eikaiwa](https://eikaiwa.weblio.jp/)
+Tokyo Otaku Mode Inc. | https://corporate.otakumode.com/ | [@tokyootakumode](https://github.com/tokyootakumode) | Front-end tools and back-end service for [Tokyo Otaku Mode](https://otakumode.com/)
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
