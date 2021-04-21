@@ -25,6 +25,7 @@ Zens, Inc. | http://www.zens.tokyo | [@zenstokyo](https://github.com/zenstokyo) 
 CyberAgent, Inc. | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | back-end services of community apps and games.
 Weblio, Inc. | https://www.weblio-inc.jp/ | [@weblio](https://github.com/weblio) | Front-end tools and back-end service for [eikaiwa](https://eikaiwa.weblio.jp/)
 Tokyo Otaku Mode Inc. | https://corporate.otakumode.com/ | [@tokyootakumode](https://github.com/tokyootakumode) | Front-end tools and back-end service for [Tokyo Otaku Mode](https://otakumode.com/)
+PrAha Inc. | https://www.praha-inc.com/ | [@praha-inc](https://github.com/praha-inc/) | We develop most of our back-end services with Node.js + TypeScript. Some of our works can be found [here](https://www.praha-inc.com/works)
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
